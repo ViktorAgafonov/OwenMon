@@ -1,0 +1,109 @@
+{
+  "startTime": "2025-04-14T18:00:00.000Z",
+  "endTime": "2025-04-14T18:59:59.999Z",
+  "count": 8,
+  "stats": {
+    "min": 100,
+    "max": 145,
+    "avg": 127.625,
+    "sum": 1021
+  },
+  "data": [
+    {
+      "timestamp": "2025-04-14T18:04:06.702Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:04:21.775Z",
+      "weight": 145,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:24.302Z",
+      "weight": 138,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:37.365Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:24.302Z",
+      "weight": 138,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:37.365Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:23:09.375Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:37:41.934Z",
+      "weight": 100,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    }
+  ]
+}

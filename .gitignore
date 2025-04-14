@@ -1,0 +1,27 @@
+node_modules/
+archive/
+config/default.json
+*.log
+
+# Docker
+*.tar
+.docker/
+docker-compose.dev.sh
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Временные файлы
+*.tmp
+*.temp
+*~
+.log/
+log/

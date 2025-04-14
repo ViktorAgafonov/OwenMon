@@ -1,0 +1,23 @@
+{
+  "name": "owen-mon",
+  "version": "1.0.0",
+  "description": "Система мониторинга весов с использованием Modbus",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "modbus-serial": "^8.0.16",
+    "exceljs": "^4.4.0",
+    "moment": "^2.29.4",
+    "socket.io": "^4.7.2",
+    "fs-extra": "^11.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

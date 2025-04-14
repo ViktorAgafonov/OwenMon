@@ -1,0 +1,3693 @@
+{
+  "startTime": "2025-04-14T19:03:53.874Z",
+  "endTime": "2025-04-14T19:05:13.267Z",
+  "count": 80,
+  "stats": {
+    "min": 17,
+    "max": 426,
+    "avg": 146.7125,
+    "sum": 11737
+  },
+  "data": [
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:53.874Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:54.862Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:55.855Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:56.872Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:57.888Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:58.914Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:03:59.899Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:00.918Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:01.930Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:02.943Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:03.934Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:04.940Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:05.944Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:06.950Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:07.956Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:08.961Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:09.965Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:10.970Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:11.975Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:12.979Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:13.983Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 18,
+      "weightInt16": 18,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:14.989Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:15.993Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:16.997Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:18.003Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:19.009Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:20.014Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:21.020Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:22.025Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:23.031Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:24.036Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:25.042Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:26.046Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:27.052Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 8704,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:28.056Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:29.061Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:30.066Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:31.070Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:32.074Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:33.076Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:34.079Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:35.085Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:36.089Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:37.093Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:38.097Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:39.101Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:40.105Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:41.109Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:42.112Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:43.117Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:44.123Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:45.132Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:46.140Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:47.126Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:48.128Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:49.117Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:50.115Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:51.162Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:52.167Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:53.172Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:54.178Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:55.183Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 170,
+      "weightInt16": 170,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:56.188Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:57.193Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:58.211Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:04:59.205Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:00.209Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:01.213Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:02.217Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:03.222Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:04.227Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:05.230Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 426,
+      "weightInt16": 426,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:06.233Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:07.238Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:08.244Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:09.247Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 0,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:10.253Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:11.258Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:12.264Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    },
+    {
+      "weight": 17,
+      "weightInt16": 17,
+      "dispatch": 1,
+      "status": "connected",
+      "timestamp": "2025-04-14T19:05:13.267Z",
+      "inputTanks": {
+        "tank1": {
+          "dumping": 1,
+          "name": "Силос муки 1",
+          "currentWeight": 1000
+        },
+        "tank2": {
+          "dumping": 0,
+          "name": "Силос муки 2",
+          "currentWeight": 1000
+        },
+        "tank3": {
+          "dumping": 0,
+          "name": "Силос муки 3",
+          "currentWeight": 1000
+        }
+      },
+      "outputTanks": {
+        "tank1": {
+          "active": 1,
+          "name": "Промежуточный 1",
+          "currentWeight": 0
+        },
+        "tank2": {
+          "active": 0,
+          "name": "Промежуточный 2",
+          "currentWeight": 0
+        },
+        "tank3": {
+          "active": 0,
+          "name": "Промежуточный 3",
+          "currentWeight": 0
+        }
+      },
+      "activeTanks": {
+        "input": "tank1",
+        "output": "tank1"
+      },
+      "error": null
+    }
+  ]
+}

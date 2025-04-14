@@ -1,0 +1,277 @@
+{
+  "date": "2025-04-14",
+  "shift": 2,
+  "shiftName": "Вторая смена",
+  "startTime": "2025-04-14T13:00:00.000Z",
+  "endTime": "2025-04-14T21:00:00.000Z",
+  "stats": {
+    "min": 100,
+    "max": 145,
+    "avg": 127.33333333333333,
+    "sum": 1146
+  },
+  "transferStats": {
+    "totalOperations": 9,
+    "totalWeight": 1146,
+    "byInputTank": {
+      "tank1": {
+        "name": "Силос муки 1",
+        "totalWeight": 1146,
+        "operations": 9
+      }
+    },
+    "byOutputTank": {
+      "tank1": {
+        "name": "Промежуточный 1",
+        "totalWeight": 1146,
+        "operations": 9
+      }
+    }
+  },
+  "hourlyData": [
+    {
+      "startTime": "2025-04-14T17:00:00.000Z",
+      "endTime": "2025-04-14T17:59:59.999Z",
+      "count": 1,
+      "stats": {
+        "min": 125,
+        "max": 125,
+        "avg": 125,
+        "sum": 125
+      },
+      "data": [
+        {
+          "timestamp": "2025-04-14T17:56:50.781Z",
+          "weight": 125,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        }
+      ]
+    },
+    {
+      "startTime": "2025-04-14T18:00:00.000Z",
+      "endTime": "2025-04-14T18:59:59.999Z",
+      "count": 8,
+      "stats": {
+        "min": 100,
+        "max": 145,
+        "avg": 127.625,
+        "sum": 1021
+      },
+      "data": [
+        {
+          "timestamp": "2025-04-14T18:04:06.702Z",
+          "weight": 125,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:04:21.775Z",
+          "weight": 145,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:12:24.302Z",
+          "weight": 138,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:12:37.365Z",
+          "weight": 125,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:12:24.302Z",
+          "weight": 138,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:12:37.365Z",
+          "weight": 125,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:23:09.375Z",
+          "weight": 125,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        },
+        {
+          "timestamp": "2025-04-14T18:37:41.934Z",
+          "weight": 100,
+          "fromTank": {
+            "id": "tank1",
+            "name": "Силос муки 1"
+          },
+          "toTank": {
+            "id": "tank1",
+            "name": "Промежуточный 1"
+          }
+        }
+      ]
+    }
+  ],
+  "transferOperations": [
+    {
+      "timestamp": "2025-04-14T17:56:50.781Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:04:06.702Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:04:21.775Z",
+      "weight": 145,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:24.302Z",
+      "weight": 138,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:37.365Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:24.302Z",
+      "weight": 138,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:12:37.365Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:23:09.375Z",
+      "weight": 125,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    },
+    {
+      "timestamp": "2025-04-14T18:37:41.934Z",
+      "weight": 100,
+      "fromTank": {
+        "id": "tank1",
+        "name": "Силос муки 1"
+      },
+      "toTank": {
+        "id": "tank1",
+        "name": "Промежуточный 1"
+      }
+    }
+  ]
+}

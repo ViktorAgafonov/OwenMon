@@ -1,0 +1,78 @@
+{
+  "modbus": {
+    "connectionType": "tcp",
+    "host": "127.0.0.1",
+    "port": 502,
+    "slaveId": 1,
+    "pollInterval": 1000,
+    "registers": {
+      "weight": 0,
+      "dispatch": 1,
+      "dumpInputTank_1": 2,
+      "dumpInputTank_2": 3,
+      "dumpInputTank_3": 4,
+      "outTank_1": 5,
+      "outTank_2": 6,
+      "outTank_3": 7
+    }
+  },
+  "tanks": {
+    "input": [
+      {
+        "id": 1,
+        "name": "Силос муки 1",
+        "registerName": "dumpInputTank_1",
+        "initialWeight": 1000
+      },
+      {
+        "id": 2,
+        "name": "Силос муки 2",
+        "registerName": "dumpInputTank_2",
+        "initialWeight": 1000
+      },
+      {
+        "id": 3,
+        "name": "Силос муки 3",
+        "registerName": "dumpInputTank_3",
+        "initialWeight": 1000
+      }
+    ],
+    "output": [
+      {
+        "id": 1,
+        "name": "Промежуточный 1",
+        "registerName": "outTank_1",
+        "initialWeight": 0
+      },
+      {
+        "id": 2,
+        "name": "Промежуточный 2",
+        "registerName": "outTank_2",
+        "initialWeight": 0
+      },
+      {
+        "id": 3,
+        "name": "Промежуточный 3",
+        "registerName": "outTank_3",
+        "initialWeight": 0
+      }
+    ]
+  },
+  "shifts": [
+    {
+      "name": "Первая смена",
+      "startHour": 8,
+      "endHour": 16
+    },
+    {
+      "name": "Вторая смена",
+      "startHour": 16,
+      "endHour": 0
+    },
+    {
+      "name": "Третья смена",
+      "startHour": 0,
+      "endHour": 8
+    }
+  ]
+}
